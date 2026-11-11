@@ -15,6 +15,13 @@
 }
 
 
+.introduccion h2 {
+    text-align: center;
+}
+
+.introduccion p{
+    text-align: center;
+}
 
 .cajas_de_contenido ul {
     background-color:white;
